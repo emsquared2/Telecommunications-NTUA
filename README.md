@@ -3,8 +3,6 @@ Project assignment for the course "Introduction to Telecommuntications" of the S
 
 The project consisted of five parts which are described below.
 
-# Parts
-
 # Part 1
 We were given three signals: a triangular periodic pulse sequence, a sine wave, and a sum of sine waves of different frequencies, and we sampled them at different frequencies.
 
@@ -20,9 +18,9 @@ In this part, we were given a text file that we quantized, modulated with QPSK, 
 # Part 5
 In this part, we repeated Part 4 but this time for an audio file.
 
-## Contributors:
--@me
--[@johnskop7](https://github.com/johnskop7)
+# Contributors
+- [@emsquared2](https://github.com/emsquared2)
+- [@johnskop7](https://github.com/johnskop7)
 
 
 
